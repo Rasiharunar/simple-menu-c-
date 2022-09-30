@@ -1,2 +1,3 @@
-# simple-menu-c-
-ada
+# CPP Menu
+
+just simple implementation of switch case trees
